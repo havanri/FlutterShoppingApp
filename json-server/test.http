@@ -1,0 +1,74 @@
+#Products
+
+# @name getProductsBy
+GET http://localhost:3000/api/products?id=${id}
+
+###
+
+# @name getAllProducts
+GET http://localhost:3000/api/products
+
+###
+
+# @name addNewProduct
+
+POST http://localhost:3000/api/products
+Content-Type: application/json
+
+{
+    "name":"Ao ba lo"
+}
+
+###
+
+# @name updateProduct
+PATCH http://localhost:3000/api/products/
+Content-Type: application/json
+
+{
+
+}
+
+
+###
+
+# @name deleteProduct
+DELETE  http://localhost:3000/api/products/22
+Content-Type: application/json
+
+
+###
+
+#Carts
+
+# @name getAllCarts
+GET http://localhost:3000/api/carts
+
+
+###
+
+# @name addNewCart
+
+POST http://localhost:3000/api/carts
+Content-Type: application/json
+
+
+
+###
+
+###
+
+# @name updateCart
+PATCH http://localhost:3000/api/carts/
+Content-Type: application/json
+
+{
+    
+}
+
+
+###
+
+# @name deleteCart
+DELETE  http://localhost:3000/api/carts
+Content-Type: application/json
