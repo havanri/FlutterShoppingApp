@@ -7,5 +7,3 @@ Shopping App with Flutter,Json server created by Nodejs
 ![image](https://user-images.githubusercontent.com/76147159/202881058-c86f5b9a-f172-4524-bdf2-4609c52fe9d3.png)
 ![image](https://user-images.githubusercontent.com/76147159/202881073-cf4d1999-c55a-467b-a880-19805257cb8e.png)
 ![image](https://user-images.githubusercontent.com/76147159/202881076-a9951b62-51a2-45dc-85d9-fdcbbf717fc7.png)
-![image](https://user-images.githubusercontent.com/76147159/202881100-8793a22a-32ca-4e10-8288-83f122b6e416.png)
-
